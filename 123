@@ -1,0 +1,3 @@
+CREATE DATABASE FORMULA1;
+> mysql -u root -p FORMULA1 < f1db.sql
+> show database;
